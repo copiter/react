@@ -10,6 +10,9 @@ const useCounter = () => {
 
     return () => clearInterval(interval);
   }, []);
+
+  // 함수기 때문에 자유롭게 리턴
+  return counter;
 }
 
 export default useCounter;
