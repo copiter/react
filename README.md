@@ -1,2 +1,3 @@
-# udemy-react
-Codes of &lt;React - The Complete Guide (incl Hooks, React Router, Redux)> in udemy
+# react
+
+React 관련 공부한 내용을 모아놓은 repository입니다.
